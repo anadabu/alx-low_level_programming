@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- * main - prints a string using the putf function 
+ * main - prints a string using the putf function
  *
  * Return: 0 as always
  */
-int main (void) 
+int main(void)
 {
-	printf ("with proper grammar, but the outcome is a piece of art, \n");
+	printf("with proper grammar, but the outcome is a piece of art, \n");
 	return (0);
 }
-
