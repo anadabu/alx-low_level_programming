@@ -7,7 +7,7 @@
  * Return: pointer to the destination string
  */
 
-char *_strncat(char *dest, char *src, int n);
+char *_strncat(char *dest, char *src, int n)
 {
 	int str_len, i;
 
